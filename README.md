@@ -42,5 +42,5 @@ ContainerVC *container = [ContainerVC new];
 }
 ```
 
-效果展示(gif)
-![pagees](https://github.com/GithubChinaCH/PageContainer/raw/master/pages.gif)
+#效果展示(gif)
+![pagees](https://github.com/jhchenhao/PageContainer/raw/master/pages.gif)
