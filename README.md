@@ -43,4 +43,4 @@ ContainerVC *container = [ContainerVC new];
 ```
 
 效果展示(gif)
-![fanbtn](https://github.com/GithubChinaCH/FanShapeBtn/raw/master/fanbtn.gif)
+![pagees](https://github.com/GithubChinaCH/PageContainer/raw/master/pages.gif)
